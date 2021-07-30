@@ -1,0 +1,580 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family:sans-serif;
+    color: #000;
+    position: relative;
+    background-color: #EEEEEE;
+    background-color: #fff;
+    position: relative;
+}
+.topbar{
+    background-color:#005093;
+    width: 100%;
+    /* height: 55px; */
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid #fff;
+    z-index: 3;
+}
+/* je dois chancger le font */
+.topbar-logo{
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffd148;
+    text-decoration: none;
+    padding: 15px 15px; 
+    margin-left: 180px; 
+}
+
+
+.topbar-nav{
+    float: right;
+    margin: 45px 100px 13px 0; 
+    /* padding: 20px;  */
+     
+}
+.topbar-nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 15px;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+.topbar-nav a:hover{
+    border-radius: 7px;
+    background:rgba(255, 255, 255, .5);
+    background-color:#22b3e2 ;
+    
+    color:rgba(255, 255, 255, .5);
+    transition: color .8s  ease-in-out;
+    text-decoration: none;
+   
+}
+
+.footer{
+    padding: 60px 120px 100px 170px;
+    max-width: 1500px ;
+    margin-bottom: 70px;
+}
+.adresse{
+    float: left;
+    width: 400px;
+    padding-left:50px ;
+
+}
+
+/* .fa{
+    display: inline-block;
+} */
+.a_propos{
+    float: left;
+    width: 400px;
+    padding-left:50px ;
+}
+.reseau_social{
+    float: left;
+    width: 360px;
+    padding-left:50px ;
+}
+.reseau_social .fa{
+    font-size:20px;
+    text-align: center;
+    border: 1px solid #cccccc;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    margin-right: 5px; 
+    margin-bottom: 10px;
+}
+.zone_texte{
+    height: 40px;
+    width: 160px;
+    background-color: #cccccc;
+    border: none;
+    text-align: center;
+
+}
+.button_footer{
+    height: 42px;
+    width: 100px;
+    background-color: #449d44;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    margin-left: 3px;
+    text-align: center;  
+    
+}
+.button_footer:hover{
+    background-color: #ffd148;
+    border: 1px solid #fff;
+    color: #000;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+@media screen and (max-width: 1469px) {
+    .footer{
+        padding: 60px 30px 100px 10px;
+        max-width: 1400px ;
+        margin-bottom: 70px;
+    }
+    .reseau_social{
+        
+        width: 320px;
+        padding-left: 0;
+        
+    }
+    .a_propos{
+        
+        width: 210px;
+        padding-left: 0;
+    }
+
+
+
+    
+}
+
+@media only screen and (max-width: 1409px) {
+    .topbar-logo{
+        margin-left: 0;
+        transition: margin-left .9s ease-out;
+        margin-right: auto;
+        padding-left: 0;
+    }  
+    /* .topbar-nav{
+        margin-left: 3px; 
+        margin-right: auto;
+        margin-top: 0;
+        margin-bottom: 0;
+    } */
+    /* .topbar-nav a{
+        display: inline-block;
+        margin: 0;
+    }
+     .topbar-buttun{
+        margin-right: 5px;
+    }  */
+    
+}
+@media only screen and (max-width: 1219px) {
+    .topbar-nav{
+        float: right;
+        margin: 45px 10px 13px 0; 
+        /* padding: 20px;  */
+         
+    }
+    .topbar-nav a {
+       
+     
+        padding: 15px 5px;
+        
+        
+    }
+    
+   
+}
+@media screen and (max-width:1318px) {
+    .card-main{
+        padding: 0 30px;
+        max-width: 1050px ;
+        margin: auto;
+        
+    }
+    .card1-main{
+        width: 310px;
+        height: 425px;
+        float: left;
+        padding: 0;
+        margin: 30px 10px;
+        border: 1px solid rgba(0, 0, 0, .20);
+    }
+    .card1-main img{
+        width: 100%;
+    }
+    
+    
+}
+@media only screen and (max-width:1390px) {
+    .baniere-card{
+        padding: 0 60px;
+        max-width: 1200px ;
+        margin: auto;
+    }  
+     .baniere-card1{
+        width: 310px;
+        height: 180px;
+        float: left;
+        padding: 5px;
+        margin-top: 510px;
+        margin-left: 30px;
+    } 
+      
+}
+ 
+@media only screen  and (max-width: 1159px){
+
+     .baniere-card{
+        padding: 0 30px;
+        max-width: 880px ;
+        margin: auto;
+    }  
+     .baniere-card1{
+        width: 240px;
+        height: 180px;
+        float: left;
+        padding: 5px;
+        margin-top: 510px;
+        margin-left: 20px;
+    } 
+}
+@media screen and (max-width:1068px) {
+    .card-main{
+        padding: 0 15px;
+        max-width: 880px ;
+        margin: auto;
+        
+    }
+    .card1-main{
+        width: 260px;
+        height: 425px;
+        float: left;
+        padding: 0;
+        margin: 30px 10px;
+    }
+   
+} 
+
+
+@media only screen and (max-width:995px){
+    .topbar-nav{
+        margin-left: 150px;
+    }
+   .topbar-logo{
+        margin-left: 120px;
+    }
+    
+}
+@media screen and (max-width: 990px) {
+    footer{
+        padding: 60px 0 60px 0;
+        padding: 15px 30px 30px 30px;
+        max-width: 1000px ;
+      
+    } 
+    .a_propos{
+        float: left;
+        width: 100%;
+        padding-left:50px ;
+    }
+    .reseau_social{
+        float: left;
+        width: 340px;
+        padding-left:50px ;
+    }
+    
+
+    
+    
+}
+@media screen and (max-width:888px){
+    .card-main{
+        padding: 0 10px;
+        max-width: 730px ;
+        margin: auto;
+        
+    }
+    .card1-main{
+        width: 215px;
+        height: 425px;
+        float: left;
+        padding: 0;
+        margin: 30px 10px;
+    }
+}
+@media only screen and (max-width:858px){
+    .baniere-card{
+        padding: 0 10px;
+        max-width: 750px ;
+        margin: auto;
+    }  
+     .baniere-card1{
+        width: 230px;
+        height: 160px;
+        float: left;
+        padding: 5px;
+        margin-top: 510px;
+        margin-left: 12px;
+    } 
+
+}
+@media only screen and (max-width:837px){
+    .topbar-nav{
+        margin-left: 100px;
+    }
+   .topbar-logo{
+        margin-left: 90px;
+    }
+    
+}
+@media only screen and (max-width:785px){
+    .topbar-nav{
+        margin-left: 80px;
+    }
+   .topbar-logo{
+        margin-left: 50px;
+    }
+    
+}
+
+@media only screen  and (max-width: 1003px){
+     .topbar-nav{
+         display: none;
+        float: left;
+         padding: 15px 0 15px 0; 
+        width: 100%;
+        border-top: solid 1px #fff;
+        margin: 0;
+        /* transition: .9s ease-in; */
+         
+    } 
+    .nav-icons{
+        position: relative;
+        display: block;
+        width: 40px;
+        height: 50px;
+        float: right;
+        cursor: pointer;
+    }
+    .nav-icons::after{
+        content: '';
+        display: block;
+        width: 30px;
+        height: 0;
+        box-shadow :  0  10px 0 1px #fff,  0  16px 0 1px  #fff,  0  22px 0 1px #fff ;
+        position :absolute;
+        top: 10px;
+        right:10px ; 
+        padding-top: 1px;
+    }
+     .topbar-nav a{
+        display: block;
+        padding:10px 10px ;
+       
+    } 
+    .topbar-logo{
+        margin-top: 0;
+         padding: 15px; 
+         margin-left: 1px;
+        
+    }
+    
+    .topbar-nav a:hover{
+        border: solid 1px #000;
+        background:#000;
+        color: #fff;
+
+    }
+    .baniere{
+        height: 750px;
+    }
+    .baniere-fils{
+        position: absolute;
+        top: 120px;
+        left: 45px;
+        color: #fff; 
+    
+    }
+    .baniere-title{
+        font-size: 20px;
+        line-height: 1em;
+        font-weight: 700;
+    }
+    .baniere-buttun{
+        background-color: #ffd148;
+        padding: 13px 17px;
+        border: none;
+        border-radius: 1px;
+        font-size: 10px; 
+        margin-left: 20px;
+        margin-top: 30px;
+    } 
+    .baniere-paragraphe{
+        padding-top: 1em;
+        padding-bottom: 1em;
+        font-size: 11px;
+    }
+    
+    .baniere-card{
+        padding: 0;
+        max-width: 900px ;
+        margin: 0;
+    }  
+   .baniere-card1{
+        width: auto;
+        padding: 15px;
+        margin-top: 0;
+        margin-right: 15px;
+        margin-left: 12px;
+       
+    } 
+ .baniere-card1:first-child{
+        margin-top: 660px;
+        padding-top: 10px;   
+    } 
+    .baniere-card1:last-child{
+        margin-bottom: 60px;
+ 
+    } 
+    .main{
+        padding: 0px;
+        max-width: 100%;
+        margin: auto;    
+    }
+    .card-main{
+        padding: 0px;
+        max-width: 100% ;
+        margin-right: 15px ;
+        margin-left: 10px ;
+  
+    }
+        
+    .card1-main{
+        width: 100%;
+        height:auto;
+        padding: 0;
+        margin: 10px 5px;
+ 
+}
+/* .footer{
+    padding: 60px 0 60px 0;
+    max-width: 1500px ;
+    margin-bottom: 295px;    
+   
+}  */
+    
+   .humburger_activated .topbar-nav{
+        
+        display: block;
+        transform: translateY(0px);
+    } 
+    .humburger_activated .baniere{
+        display: block;
+    }
+}
+@media screen and (max-width: 1327px) {
+    /* .baniere-card{
+        padding: 0;
+        max-width: 900px ;
+        margin: 0;
+    }  
+    .baniere-card1{
+        width: 250px;
+        padding: 15px;
+        margin-top: 0;
+        margin-right: 15px;
+        margin-left: 12px;
+       
+    }  */
+}
+@media only screen and (max-width: 576px){
+    .baniere{
+        height: 750px;
+    }
+    .baniere-fils{
+        position: absolute;
+        top: 120px;
+        left: 45px;
+        color: #fff; 
+    
+    }
+    .baniere-title{
+        font-size: 20px;
+        line-height: 1em;
+        font-weight: 700;
+    }
+    
+    .baniere-buttun{
+        background-color: #ffd148;
+        padding: 13px 17px;
+        border: none;
+        border-radius: 1px;
+        font-size: 10px; 
+        margin-left: 20px;
+        margin-top: 30px;
+    } 
+    .baniere-paragraphe{
+        padding-top: 1em;
+        padding-bottom: 1em;
+        font-size: 11px;
+    }
+    
+    
+    .card-paragaraphe{
+        display: none;
+    }
+    .baniere-card{
+        padding: 0 20px;
+
+    }  
+    .baniere-card1{
+        
+        height: auto;
+        margin: 0 0px 10px 0px;
+        padding-top: 15px;
+        width: 100%;
+    }
+    .baniere-card1:first-child{
+       margin-top: 765px;
+    }
+    .main{
+        padding: 0 12px;
+        max-width: 100% ;
+        margin: auto;
+        
+    }
+    .card-main{
+        padding: 0px;
+        max-width: 100% ;
+        margin: auto;
+        
+    }
+
+    .h1-main{
+      margin-top: 310px;
+        
+    }
+    .card1-main{
+        width: 100%;
+        height:auto;
+        padding: 0;
+        margin: 10px 5px;
+ 
+}
+.card-paragaraphe{
+    margin: 0 ;
+}
+/* .footer{
+    padding: 60px 0 60px 0;
+    max-width: 1500px ;
+    margin-bottom: 295px;    
+   
+}  */
+
+
+
+}
+ 
