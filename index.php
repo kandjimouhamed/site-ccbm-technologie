@@ -11,22 +11,8 @@
     <title>ccbmtechnologie</title>
 </head>
 <body class="main">
+<?php require "header.php";?> 
     
-        <div class="barre_blanche"></div>
-        
-         
-      
-          
-        <div  class="container">
-            <div class="row">
-                <div class="col-md-12">
-                <img src="img/im_flash.jpg" class="img-fluid img" alt="Responsive image"> 
-                </div>
-                
-            </div>
-                    
-        
-
         <div class="card">
             <p>Lorems ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
             Accusantium repellendus earum cum eligendi voluptates quam 
@@ -60,6 +46,9 @@
            reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
 
            </div>
+
+           
+
             
         </div>
 
