@@ -11,12 +11,8 @@
     <title>ccbmtechnologie</title>
 </head>
 <body class="main">
-    
         <div class="barre_blanche"></div>
         
-         
-      
-          
         <div  class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -24,46 +20,84 @@
                 </div>
                 
             </div>
-                    
+            <div class="card">
+            <div class=" row">
+                <div class=" col-sm-3 col-md-2 col-lg-3">
+                    <img src="img/im_bienvenu.png" alt="">
+
+                </div>
+                <div class="col-sm-9 col-md-9 col-lg-9">
+                    <h4>Bienvenue.....</h4>
+                    <ul>
+                    CCBM TECHNOLOGIES et SOLUTIONS est un département de Espace High Tech filiale du 
+                    Groupe CCBM.
+                 CCBM TECHNOLOGIES et SOLUTIONS offre des prestations de service et d‘ingénierie en
+                  informatique et télécom aussi bien pour le groupe que pour des clients externes
+                  <li>
+                  Le département Technologies & Solutions dispose d‘une équipe d‘ingénieurs et de
+                   techniciens ayant acquis une solide expérience dans les domaines :systeme dd‘information,
+                    infrastuctures et securite des systemes d'informations et 
+                  telecommunications, reseau et telecommunication , le developpement
+                  </li>
+                  <li>
+                  Le département Technologies & Solutions se distingue de:
+                  <ul>
+                      <li>Part son appartenance a un grand groupe CCBM HOLDING</li>
+                      <li>Et d'un grand réseau de partenariats qui sont des leaders dans le monde informatique et télécom.</li>
+                  </ul>
+                  </li>
+                    </ul>
+                </div>
+             </div>  
+             <hr class="hr">
+             <div class="row">
+             <div class=" col-sm-3 col-md-3 col-lg-3">
+                 <p class="titre">Solution Informatique</p>
+                 <div class="card" style="width: 16rem;">
+                     <img src="img/im_solinfo.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col-sm-3 col-md-3 col-lg-3">
+                    <p  class="titre">Reseaux</p>
+                    <div class="card" style="width: 16rem;">
+                     <img src="img/im_reseau.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col-sm-3 col-md-3 col-lg-3">
+                    <p  class="titre">Audits et Conseile</p>
+                   <div class="card" style="width: 16rem;">
+                     <img src="img/im_audit.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col-sm-3 col-md-3 col-lg-3">
+                    <p  class="titre">Formation</p>
+                    <div class="card" style="width: 16rem;">
+                     <img src="img/im_formation.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+             </div>
+             <div class="row">
+             <div class="col-12">
+               <img src="img/imgo.jpeg" alt="" class="img-fluid img" alt="Responsive image"> 
+             </div>
+             </div>
+             </div>  
         
 
-        <div class="card">
-            <p>Lorems ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorems ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum voluptatum corrupti possimus.
-            Accusantium repellendus earum cum eligendi voluptates quam 
-           reprehenderit dignissimos impedit repudiandae rem odio beatae fugit cupiditate, amet tempore.</p>
-
-           </div>
             
         </div>
-
-        
     <?php require "footer.php";?> 
 </body>
 </html>

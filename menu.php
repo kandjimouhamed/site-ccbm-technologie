@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/menu.css">
+    <link rel="stylesheet" href="style/menu.css">
+    <link rel="stylesheet" href="style/style.css">
     <title>menu</title>
 </head>
 <body>
@@ -13,12 +15,11 @@
         <a href="#" class="nav-icons"></a>
         
         <nav class="topbar-nav" >
-            <a class="first-child" href="#">A propos</a>
+            <a class="first-child" href="index.php">A propos</a>
             <a href="#">Savoir-faire</a>
-            <a href="#">Domaines Actions</a>
-            <a href="#">Produits</a>
+            <a href="#">Domaines d' Activité</a>
             <a href="#">Service à la clientèle</a>
-            <a href="#">Contacts</a>
+            <a href="contacts.php">Contacts</a>
              
         </nav>
     </header>
