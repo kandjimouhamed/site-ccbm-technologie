@@ -8,12 +8,12 @@ footer {
   
   footer a {
     color: #fff;
-    font-size: 14px;
+    font-size: 12px;
     transition-duration: 0.2s;
   }
   
   footer a:hover {
-    color: #FA944B;
+    color: rgba(0, 0, 0, .90);
     text-decoration: none;
   }
   
@@ -29,7 +29,9 @@ footer {
   }
   
   
- 
+ .h6{
+   color: black;
+ }
   
   /* footer social icons */
   
