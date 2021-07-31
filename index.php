@@ -47,7 +47,7 @@
              <hr class="hr">
              <div class="row">
              <div class=" col-sm-3 col-md-3 col-lg-3">
-                 <h4 class="titre">Solution Informatique</h4>
+                 <h5 class="titre">Solution Informatique</h5>
                  <div class="card" style="width: 16rem;">
                      <img src="img/im_solinfo.png" class="card-img-top" alt="...">
                         <div class="card-body">
