@@ -86,7 +86,7 @@
         </div>
       </div>
     	<div class="col-md-2">
-    		<h6 class="h6">Follow Us</h6>
+    		<h6 class="h6">Réseaux Sociaux</h6>
             <ul class="social-network social-circle">
              <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
              <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>

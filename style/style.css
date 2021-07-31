@@ -16,4 +16,14 @@
  .card{
      background-color: aliceblue;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0,0.2), 0 6px 20px 0 rgba(0, 0, 0,0.19);
+     padding: 8px 5px 5px 5px;
+ }
+ .hr{
+    background-color: #005093;
+     height: 1px;
+ }
+ .titre{
+    font-size: 20px;
+     color: #005093;
+     margin-left: 20px;
  }

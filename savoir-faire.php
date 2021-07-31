@@ -23,6 +23,23 @@
                     <li>Vente de matérielss</li>
                 </ul>
 
+                <ul>
+                    <li>Développement</li>
+                    <li>Formation</li>
+                    <li>Réseaux  et téléccommunications</li>
+                    <li>Sécurite</li>
+                    <li>Système d'informations</li>
+                    <li>Vente de matérielss</li>
+                </ul>
+                <ul>
+                    <li>Développement</li>
+                    <li>Formation</li>
+                    <li>Réseaux  et téléccommunications</li>
+                    <li>Sécurite</li>
+                    <li>Système d'informations</li>
+                    <li>Vente de matérielss</li>
+                </ul>
+
             </div>
     </div>
 
