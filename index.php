@@ -11,15 +11,9 @@
     <title>ccbmtechnologie</title>
 </head>
 <body class="main">
-        <div class="barre_blanche"></div>
-        
-        <div  class="container">
-            <div class="row">
-                <div class="col-md-12">
-                <img src="img/im_flash.jpg" class="img-fluid img" alt="Responsive image"> 
-                </div>
+        <?php require "header.php";?>         
                 
-            </div>
+          
             <div class="card">
             <div class=" row">
                 <div class=" col-sm-3 col-md-2 col-lg-3">
@@ -28,11 +22,12 @@
                 </div>
                 <div class="col-sm-9 col-md-9 col-lg-9">
                     <h4>Bienvenue.....</h4>
-                    <ul>
+                    
                     CCBM TECHNOLOGIES et SOLUTIONS est un département de Espace High Tech filiale du 
                     Groupe CCBM.
-                 CCBM TECHNOLOGIES et SOLUTIONS offre des prestations de service et d‘ingénierie en
-                  informatique et télécom aussi bien pour le groupe que pour des clients externes
+                    CCBM TECHNOLOGIES et SOLUTIONS offre des prestations de service et d‘ingénierie en
+                    informatique et télécom aussi bien pour le groupe que pour des clients externes
+                  <ul>
                   <li>
                   Le département Technologies & Solutions dispose d‘une équipe d‘ingénieurs et de
                    techniciens ayant acquis une solide expérience dans les domaines :systeme dd‘information,
@@ -41,18 +36,18 @@
                   </li>
                   <li>
                   Le département Technologies & Solutions se distingue de:
-                  <ul>
-                      <li>Part son appartenance a un grand groupe CCBM HOLDING</li>
-                      <li>Et d'un grand réseau de partenariats qui sont des leaders dans le monde informatique et télécom.</li>
-                  </ul>
-                  </li>
+                    <ul>
+                        <li>Part son appartenance a un grand groupe CCBM HOLDING</li>
+                        <li>Et d'un grand réseau de partenariats qui sont des leaders dans le monde informatique et télécom.</li>
                     </ul>
-                </div>
+                  </li>
+                </ul>
+            </div>
              </div>  
              <hr class="hr">
              <div class="row">
              <div class=" col-sm-3 col-md-3 col-lg-3">
-                 <p class="titre">Solution Informatique</p>
+                 <h4 class="titre">Solution Informatique</h4>
                  <div class="card" style="width: 16rem;">
                      <img src="img/im_solinfo.png" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -61,7 +56,7 @@
                     </div>
                 </div>
                 <div class=" col-sm-3 col-md-3 col-lg-3">
-                    <p  class="titre">Reseaux</p>
+                    <h5  class="titre">Reseaux</h5>
                     <div class="card" style="width: 16rem;">
                      <img src="img/im_reseau.png" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -70,7 +65,7 @@
                     </div>
                 </div>
                 <div class=" col-sm-3 col-md-3 col-lg-3">
-                    <p  class="titre">Audits et Conseile</p>
+                    <h5  class="titre">Audits et Conseile</h5>
                    <div class="card" style="width: 16rem;">
                      <img src="img/im_audit.png" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -79,7 +74,7 @@
                     </div>
                 </div>
                 <div class=" col-sm-3 col-md-3 col-lg-3">
-                    <p  class="titre">Formation</p>
+                    <h5 class="titre">Formation</h5>
                     <div class="card" style="width: 16rem;">
                      <img src="img/im_formation.png" class="card-img-top" alt="...">
                         <div class="card-body">

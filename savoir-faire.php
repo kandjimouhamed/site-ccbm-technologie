@@ -9,11 +9,12 @@
 </head>
 <body class="main">
 
-<div class="barre_blanche"></div>
+<!-- <div class="barre_blanche"></div> -->
+<?php require "header.php";?> 
         
-    <div class="container">
+    
             <div class="card">
-            <h3>savoir-faire</h3>
+                <h3>savoir-faire</h3>
                 <ul>
                     <li>Développement</li>
                     <li>Formation</li>
@@ -23,23 +24,8 @@
                     <li>Vente de matérielss</li>
                 </ul>
 
-                <ul>
-                    <li>Développement</li>
-                    <li>Formation</li>
-                    <li>Réseaux  et téléccommunications</li>
-                    <li>Sécurite</li>
-                    <li>Système d'informations</li>
-                    <li>Vente de matérielss</li>
-                </ul>
-                <ul>
-                    <li>Développement</li>
-                    <li>Formation</li>
-                    <li>Réseaux  et téléccommunications</li>
-                    <li>Sécurite</li>
-                    <li>Système d'informations</li>
-                    <li>Vente de matérielss</li>
-                </ul>
-
+              
+              
             </div>
     </div>
 

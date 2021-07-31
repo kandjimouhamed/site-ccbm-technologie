@@ -1,5 +1,8 @@
 footer {
-    
+    background:  #578699 ;
+    background: -webkit-linear-gradient(59deg, #578699, #005093);
+    background: linear-gradient(59deg, #578699, #005093);
+    color: white;
     margin-top:100px;
    
   
