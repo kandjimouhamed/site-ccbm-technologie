@@ -10,8 +10,10 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
    <link rel="stylesheet" href="style/footer.css">
+   
+
 </head>
-<body>
+<body class=>
 
 <footer class="mainfooter" role="contentinfo">
   <div class="footer-middle">
