@@ -45,7 +45,51 @@
             </div>
              </div>  
              <hr class="hr">
+             <div class="card-group">
              <div class="row">
+             <div class="card-group">
+            <div class="card">
+            <h5 class="titre">Solution Informatique</h5>
+                <img class="card-img-top" src="img/im_solinfo.png" alt="Card image cap">
+                <div class="card-body">
+                    <ul class="card-list" style="padding-left:0;">
+                        <li>Accompagne pour <br> l´expression de vos besoins</li>
+                        <li>Proposition de ERP</li>
+                        <li>Digitalisation des process</li>
+                        
+                    </ul>
+                
+                </div>
+            </div>
+            <div class="card">
+            <h5  class="titre">Reseaux</h5>
+                <img class="card-img-top" src="img/im_reseau.png" alt="Card image cap">
+                <div class="card-body">
+                    <ul class="card-list" style="padding-left:0;">
+                        <li>Câblage et systàme WIFI</li>
+                        <li>Service d‘intégration et d‘interconnexion : LAN, WAN, VPN</li>
+                        <li>Sécurité : Firewall et filtrage de contenu</li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+            <h5  class="titre">Audits et Conseile</h5>
+                <img class="card-img-top" src="img/im_audit.png" alt="Card image cap">
+                <div class="card-body">
+                <p class="card-text">Pour auditer et améliorer votre systàme d‘information</p>
+                </div>
+            </div>
+            <div class="card">
+            <h5 class="titre">Formation</h5>
+                <img class="card-img-top" src="img/im_formation.png" alt="Card image cap">
+                 <div class="card-body">
+                    <p class="card-text">CCBM Technologies et solutions propose une série de formations informatique et télécom  à la carte ou sur mesure</p>
+                </div>
+            </div>
+            </div>
+
+            <!--     
              <div class=" col-sm-3 col-md-3 col-lg-3">
                  <h5 class="titre">Solution Informatique</h5>
                  <div class="card" style="width: 16rem;">
@@ -83,16 +127,29 @@
                     </div>
                 </div>
              </div>
+             
              <div class="row">
              <div class="col-12">
                <img src="img/imgo.jpeg" alt="" class="img-fluid img" alt="Responsive image"> 
              </div>
              </div>
-             </div>  
+             </div>   -->
         
 
+
+             <!-- TESTE CARD -->
+    
             
         </div>
+        </div>
+        </div>
+            <div class="row">
+             <div class="col-12">
+               <img src="img/imgo.jpeg" alt="" class="img-fluid img" alt="Responsive image"> 
+             </div>
+        </div>
+        </div>
+
     <?php require "footer.php";?> 
 </body>
 </html>

@@ -18,8 +18,8 @@
         <nav class="topbar-nav" >
             <a class="first-child" href="index.php">A propos</a>
             <a href="savoir-faire.php">Savoir-faire</a>
-            <a href="#">Domaines d' Activité</a>
-            <a href="#">Service à la clientèle</a>
+            <a href="domaine-activite.php">Domaines d' Activité</a>
+            <a href="service-clientelle.php">Service à la clientèle</a>
             <a href="contacts.php">Contacts</a>
              
         </nav>

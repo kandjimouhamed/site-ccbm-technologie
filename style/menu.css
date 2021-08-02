@@ -57,7 +57,7 @@ body{
     border-radius: 7px;
     background:rgba(255, 255, 255, .5);
     background-color:#22b3e2 ;
-    
+
     color:rgba(255, 255, 255, .5);
     transition: color .8s  ease-in-out;
     text-decoration: none;
@@ -382,12 +382,6 @@ body{
         
     }
     
-    .topbar-nav a:hover{
-        border: solid 1px #000;
-        background:#000;
-        color: #fff;
-
-    }
     .baniere{
         height: 750px;
     }
