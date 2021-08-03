@@ -70,7 +70,8 @@
             </li>
           </ul>
         </div>
-      </div><div class="col-md-2 col-sm-6">
+      </div>
+      <div class="col-md-2 col-sm-6">
         <!--Column1-->
         <div class="footer-pad">
           <h6 class="h6">Pole Transport-Logistique</h6>
@@ -85,16 +86,23 @@
           </ul>
         </div>
       </div>
-    	<div class="col-md-2">
+    	<div class="col-md-2 col-sm-6">
     		<h6 class="h6">Réseaux Sociaux</h6>
+        <br>
             <ul class="social-network social-circle">
-             <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+             <li><a href="#" class="icoLinkedin" title="Facebook"><i class="fa fa-facebook"></i></a></li>
              <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-            </ul>				
+             <li><a href="#" class="icoLinkedin" title="Youtube"><i class="fa fa-youtube"></i></a></li>
+          <br>
+             <li><a href="#" class="icoLinkedin" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+             <li><a href="#" class="icoLinkedin" title="Email"><i class="fa fa-envelope"></i></i></a></li>
+             <li><a href="#" class="icoLinkedin" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+            
+            </ul>				</i>
 		</div>
     </div>
 	<div class="row">
-		<div class="col-md-12 copy">
+		<div class="col-md-12 copy col-sm-6">
 			<p class="text-center"> Copyright &nbsp;&copy; &nbsp; CCBM TECHNOLOGIES ET SOLUTIONS 2021 .</p>
 		</div>
 	</div>

@@ -1,7 +1,5 @@
 .main{
-    background-color: #005093;
-    
-  
+    background-color: #005093; 
 }
 
 .barre_blanche{
@@ -11,13 +9,9 @@
 }
  .img{
     width: 100%;
-
  }
  .card{
      background-color: aliceblue;
-     
-
-
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0,0.2), 0 6px 20px 0 rgba(0, 0, 0,0.19);
      padding: 30px 20px
      /* padding-top: 20px; */
@@ -32,3 +26,15 @@
      color: #005093;
     
  }
+ .img{
+     height: 10px;
+ }
+ .h4{
+     color: #005093;
+ }
+ 
+
+
+
+ 
+ 

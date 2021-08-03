@@ -14,7 +14,7 @@
         
     
             <div class="card">
-                <h3>savoir-faire</h3>
+                <h4 style="color:  #005093;">Savoir-faire</h4>
                 <ul>
                     <li>Développement</li>
                     <li>Formation</li>

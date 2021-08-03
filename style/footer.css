@@ -3,9 +3,9 @@ footer {
     background: -webkit-linear-gradient(59deg, #578699, #005093);
     background: linear-gradient(59deg, #578699, #005093);
     color: white;
-    margin-top:100px;
+    margin-top:30px;
+   
 }
-  
   footer a {
     color: #fff;
     font-size: 12px;
@@ -99,7 +99,6 @@ footer {
     -ms-transition: all 0.2s;
     transition: all 0.2s;
   }
-  
   .social-circle i {
     color: #595959;
     -webkit-transition: all 0.8s;
@@ -108,7 +107,6 @@ footer {
     -ms-transition: all 0.8s;
     transition: all 0.8s;
   }
-  
   .social-network a {
     background-color: #F9F9F9;
   }
