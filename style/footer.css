@@ -6,9 +6,15 @@ footer {
     margin-top:30px;
    
 }
+.footer-pad h6, .sociaux{
+  font-size: 16px ;
+  font-weight: bold;
+  color: black;
+}
+
   footer a {
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     transition-duration: 0.2s;
   }
   
@@ -27,12 +33,7 @@ footer {
     padding-top: 2em;
     color: white;
   }
-  
-  
- .h6{
-   color: black;
- }
-  
+ 
   /* footer social icons */
   
   ul.social-network {
@@ -110,3 +111,4 @@ footer {
   .social-network a {
     background-color: #F9F9F9;
   }
+ 

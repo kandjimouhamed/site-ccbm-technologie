@@ -11,7 +11,7 @@
         <div class="card">
             <h4 style="color:  #005093;">Domaine d'Activite</h4>
             <ul>
-                <li>Développement:
+                <li> <span class="titre-liste">Développement:</span>
                     <ul>
                         <li>Administration des processus de gestion et des workflow</li>
                         <li>Développement web et multimédiat</li>
@@ -22,7 +22,7 @@
 
                 </li>
                     
-                <li>Formation:
+                <li><span class="titre-liste">Formation:</span>
                     <ul>
                         <li>Basse des donnèes</li>
                         <li>Bureutique</li>
@@ -32,14 +32,14 @@
                         <li>Reéseaux et systéme</li>
                     </ul>
                 </li>
-                <li>Réseaux  et téléccommunications
+                <li><span class="titre-liste">Réseaux  et téléccommunications:</span>
                     <ul>
                         <li>Cablage</li>
                         <li>Interconnextion de site(VPN,WIFI;BLA...</li>
                         <li>Téléphonie-VOIP</li>
                     </ul>
                 </li>
-                <li>Sécurite:
+                <li><span class="titre-liste">Sécurite:</span>
                     <ul>
                         <li>Géolocalisation</li>
                         <li>Pointage et control d‘accès</li>
@@ -49,7 +49,7 @@
                         <li>Video surveillence</li>
                     </ul>
                 </li>
-                <li>Système d‘informations
+                <li><span class="titre-liste">Système d‘informations</span>
                     <ul>
                         <li>Etude pour définir vos besoins et cahier de charge</li>
                         <li>Accompagne pour le choix des solutions</li>
@@ -57,7 +57,7 @@
                         <li>Formation et accompagnement dans la politique de changement</li>
                     </ul>
                 </li>
-                <li>Vente de matériels:
+                <li><span class="titre-liste">Vente de matériels:</span>
                     <ul>
                         <li>Informatiques ,Telecom.Gsm....</li>
                     </ul>
