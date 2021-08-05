@@ -1,32 +1,74 @@
-<?php require "menu.php";?>
+<?php require "menu.php"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Document</title>
+</head>
 <body class="main">
-        <?php require "header.php";?> 
-            <div class="card">
-                <h4 style="color:  #005093;">Contacts</h4>
-                <div class="row contact">
-                    <div class="col-md-12 col-lg-4 col-sm-12">
-                        <h5><i class="fa fa-phone" style="color:#005093;"></i> &nbsp; +221 33 849 65 49</h5>
-                        
-                    </div>
-                    <div class="  col-md-12 col-lg-4 col-sm-12" style="float: left;">
-                        <h5> <i class="fa fa-map-marker" style="color:#005093;"></i> &nbsp; Avenue Lamine Gueye X Rue Marchand,Dakar-Senegal.</h5>
-                    </div>
-                    <div class=" col-md-12 col-lg-4 col-sm-12">
-                        <h5><i class="fa fa-envelope" style="color:#005093;"></i> &nbsp;ccbmtechnologies@ccbm.com</h5> 
-                    </div>
-                </div>
-                <div class=" row">
-                <div class="col-md-12">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3859.556096293514!2d-17.440456685137793!3d14.681115179034348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec172569fa40e79%3A0x2d2fbc74fe6d15b0!2sCCBM%20Automobile!5e0!3m2!1sfr!2ssn!4v1623861014091!5m2!1sfr!2ssn"
-                     width="100%"
-                     height="250" style="border:0; margin-top: 60px;" allowfullscreen="" loading="lazy"></iframe>
+        <?php require "header.php"?>
+
+        <div class="card">
+            <h4 style="color:  #005093;">Domaine d'Activite</h4>
+            <ul>
+                <li>Développement:
+                    <ul>
+                        <li>Administration des processus de gestion et des workflow</li>
+                        <li>Développement web et multimédiat</li>
+                        <li>Intégration de solutions</li>
+                        <li>Télé-développement</li>
+
+                    </ul>
+
+                </li>
+
+                <li>Formation:
+                    <ul>
+                        <li>Basse des donnèes</li>
+                        <li>Bureutique</li>
+                        <li>développement</li>
+                        <li>Gestion de projet</li>
+                        <li>Infographie\web design</li>
+                        <li>Reéseaux et systéme</li>
+                    </ul>
+                </li>
+                <li>Réseaux  et téléccommunications
+                    <ul>
+                        <li>Cablage</li>
+                        <li>Interconnextion de site(VPN,WIFI;BLA...</li>
+                        <li>Téléphonie-VOIP</li>
+                    </ul>
+                </li>
+                <li>Sécurite:
+                    <ul>
+                        <li>Géolocalisation</li>
+                        <li>Pointage et control d‘accès</li>
+                        <li>Firewall</li>
+                        <li>Filtrage de contenu</li>
+                        <li>Anti-virus</li>
+                        <li>Video surveillence</li>
+                    </ul>
+                </li>
+                <li>Système d‘informations
+                    <ul>
+                        <li>Etude pour définir vos besoins et cahier de charge</li>
+                        <li>Accompagne pour le choix des solutions</li>
+                        <li>Déploiement</li>
+                        <li>Formation et accompagnement dans la politique de changement</li>
+                    </ul>
+                </li>
+                <li>Vente de matériels:
+                    <ul>
+                        <li>Informatiques ,Telecom.Gsm....</li>
+                    </ul>
+                </li>
 
 
-                </div>
-            </div>
-         </div>
+            </ul>
         </div>
-        <?php 
- require "footer.php";
-?>
+
+
+    </div>
+    <?php require "footer.php"?>      
 </body>
+</html> 
