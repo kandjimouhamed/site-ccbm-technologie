@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/menu.css">
     <link rel="stylesheet" href="style/style.css">
-
-
-    <title>menu</title>
+    <title>Ccbm Tech</title>
+    <link rel="shortcut icon" href="img/im_logo.jpg">
 </head>
 <body>
 <header class ="topbar">
@@ -24,7 +23,6 @@
              
         </nav>
     </header>
-
     <!-- <header class ="topbar">
         <a class="topbar-logo" href="#" ><img src="img/im_logo.jpg" alt=""></a>
         <a href="#" class="nav-icons"></a>
@@ -42,6 +40,5 @@
 integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script type ="text/javascript" src="style/menu.js"></script>
 </script>
-
 </body>
 </html>
