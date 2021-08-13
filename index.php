@@ -29,18 +29,23 @@
             <h4 style="color:  #005093;">Bienvenue.....</h4>
 
             CCBM TECHNOLOGIES et SOLUTIONS est un département de Espace High Tech filiale du
-            Groupe CCBM.
+            Groupe CCBM. <br>
             CCBM TECHNOLOGIES et SOLUTIONS offre des prestations de service et d‘ingénierie en
             informatique et télécom aussi bien pour le groupe que pour des clients externes
             <ul>
                 <li>
                     Le département Technologies & Solutions dispose d‘une équipe d‘ingénieurs et de
-                    techniciens ayant acquis une solide expérience dans les domaines :systeme dd‘information,
-                    infrastuctures et securite des systemes d'informations et
-                    telecommunications, reseau et telecommunication , le developpement
+                    techniciens ayant acquis une solide expérience dans les domaines : <br> 
+                    <ul>
+                        <li>Systeme d‘information</li>
+                        <li>Securite</li>
+                        <li>Informatique LAN , WAN</li>
+                        <li>Infogerence</li>
+                        <li>Developpement</li>
+                    </ul> 
                 </li>
                 <li>
-                    Le département Technologies & Solutions se distingue de:
+                    Le département Technologies & Solutions se distingue de: 
                     <ul>
                         <li>Part son appartenance a un grand groupe CCBM HOLDING</li>
                         <li>Et d'un grand réseau de partenariats qui sont des leaders dans le monde informatique et télécom.</li>
@@ -58,7 +63,7 @@
                     <img class="card-img-top" src="img/im_solinfo.png" alt="Card image cap">
                     <div class="card-body">
                         <ul class="card-list" style="padding-left:0;">
-                            <li>Accompagne pour <br> l´expression de vos besoins</li>
+                            <li>Accompagnenet pour <br> l´expression de vos besoins</li>
                             <li>Proposition de ERP</li>
                             <li>Digitalisation des process</li>
 
@@ -71,7 +76,7 @@
                     <img class="card-img-top" src="img/im_reseau.png" alt="Card image cap">
                     <div class="card-body">
                         <ul class="card-list" style="padding-left:0;">
-                            <li>Câblage et systàme WIFI</li>
+                            <li>Câblage et système WIFI</li>
                             <li>Service d‘intégration et d‘interconnexion : LAN, WAN, VPN</li>
                             <li>Sécurité : Firewall et filtrage de contenu</li>
 
@@ -79,10 +84,10 @@
                     </div>
                 </div>
                 <div class="card">
-                    <h5  class="titre">Audits et Conseile</h5>
+                    <h5  class="titre">Audits et Conseils</h5>
                     <img class="card-img-top" src="img/im_audit.png" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text">Pour auditer et améliorer votre systàme d‘information</p>
+                        <p class="card-text"> Ccbm technologies et audits vous accompagne dans l'audit et l'amélioration de votre système d'information</p>
                     </div>
                 </div>
                 <div class="card">

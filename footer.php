@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap 4 Footer with Social icons</title>
+  <title></title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
@@ -22,12 +22,11 @@
       <div class="col-md-2 col-sm-6">
         <!--Column1-->
         <div class="footer-pad">
-          <h6 class="h6">Poles Services-Technologies</h6>
+          <h6 class="h6">Poles Services</h6>
           <ul class="list-unstyled">
             <li><a href="#"></a></li>
             <li><a href="https://www.microsen.sn/">Microsen</a></li>
             <li><a href="#">Espace Assurances</a></li>
-            <li><a href="http://ccbmtechnologies.com/">CCBM technologie</a></li>
             <li><a href="http://ccbm.sn/">CCBM...</a></li>
             
           </ul>
@@ -36,11 +35,12 @@
       <div class="col-md-2 col-sm-6">
         <!--Column1-->
         <div class="footer-pad">
-          <h6 class="h6">Pole Electronique-Equipement</h6>
+          <h6 class="h6">Pole Electronique-Equipement-Technologies</h6>
           <ul class="list-unstyled">
             <li><a href="https://www.orbitcity.sn/">CCBM Electronics</a></li>
             <li><a href="#">Digital Electronics</a></li>
             <li><a href="#">Digital Services</a></li>
+            <li><a href="http://ccbmtechnologies.com/">CCBM technologie</a></li>
         
           </ul>
         </div>

@@ -21,7 +21,8 @@
                     <li>Réseaux  et téléccommunications</li>
                     <li>Sécurite</li>
                     <li>Système d'informations</li>
-                    <li>Vente de matérielss</li>
+                    <li>Vente de matériels</li>
+                    <li>Infogerance</li>
                 </ul>
 
               
